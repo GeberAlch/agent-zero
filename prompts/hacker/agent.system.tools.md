@@ -1,4 +1,4 @@
-## Tools available
+## Tools available:
 
 {{ include './agent.system.tool.response.md' }}
 
